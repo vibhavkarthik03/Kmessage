@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283955421489",
+    "firebase_url": "https://kmessage-20dec.firebaseio.com",
+    "project_id": "kmessage-20dec",
+    "storage_bucket": "kmessage-20dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283955421489:android:eacf5b57862a0238d31010",
+        "android_client_info": {
+          "package_name": "com.example.simplekchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283955421489-quptsfrm5o3p02cs20u7ohika7ea4mir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAat9yZ3zBwLpHVbwdUBHpzycbKXJQ0DCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283955421489-quptsfrm5o3p02cs20u7ohika7ea4mir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
